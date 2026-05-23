@@ -11,11 +11,11 @@ Aplikasi Android sederhana untuk pemesanan makanan.
 
 ![Halaman Utama](screenshot/Home.png)
 ![Halaman Menu](screenshot/Daftar_menu.png)
-![Halaman Detail_Menu](screenshot/Detail_menu.png)
+![Halaman Detail Menu](screenshot/Detail_menu.png)
 ![Halaman Profile](screenshot/Profile.png)
-![Halaman Edit_Profile](screenshot/Edit_Profile.png)
-![Halaman Edit_Profile](screenshot/Edit_Profile_(2).png)
-![Halaman Hasil_Edit_Profile](screenshot/Hasil_Edit_Profile.png)
+![Halaman Edit Profile](screenshot/Edit_Profile.png)
+![Halaman Edit Profile](screenshot/Edit_Profile_(2).png)
+![Halaman Hasil Edit Profile](screenshot/Hasil_Edit_Profile.png)
 
 ## Cara Menjalankan
 
