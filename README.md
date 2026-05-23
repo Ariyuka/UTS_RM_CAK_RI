@@ -10,7 +10,7 @@ Aplikasi Android sederhana untuk pemesanan makanan.
 ## Screenshot Aplikasi
 
 ![Halaman Utama](screenshot/Home.png)
-![Halaman Menu](screenshot/Daftar_menu.png)
+![Halaman Daftar Menu](screenshot/Daftar_menu.png)
 ![Halaman Detail Menu](screenshot/Detail_menu.png)
 ![Halaman Profile](screenshot/Profile.png)
 ![Halaman Edit Profile](screenshot/Edit_Profile.png)
